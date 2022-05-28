@@ -52,7 +52,7 @@ setuptools.setup(
         'tqdm>=4.47.0',
         'munch>=2.5.0',
         'torch>=1.7.1',
-        'opencv_python_headless>=4.1.1.26',
+        'opencv_python>=4.1.1.26',
         'requests>=2.22.0',
         'einops>=0.3.0',
         'x_transformers==0.15.0',
